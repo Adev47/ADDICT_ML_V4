@@ -1,0 +1,13 @@
+[design]
+highlight_color = #C390FF
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/WPPA9xQH2F
+guide_link = https://iris-corporation.gitbook.io/general-guide
+tiktok_link = https://www.tiktok.com/@addict.game?_t=8qvKa6Fg9o1&_r=1
+
+[rounded_corners]
+main_widgets = 12
